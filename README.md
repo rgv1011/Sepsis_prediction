@@ -10,7 +10,9 @@ The objective of this project is to develop a machine learning model that can ac
 •	Use key patient vitals and lab test results as input features.
 •	Train the model on publicly available sepsis datasets.
 •	Deploy the model with an interactive input interface for live testing.
+
 **Research Paper Reference**
+
 Title: "A Machine Learning Approach to Predict Sepsis Using Vital Signs in ICU Patients"
 Source: PhysioNet 2019 Challenge – Early Prediction of Sepsis from Clinical Data
 Authors: Reyna M. A., Josef Clifford G., et al.
