@@ -14,7 +14,9 @@ The objective of this project is to develop a machine learning model that can ac
 **Research Paper Reference**
 
 Title: "A Machine Learning Approach to Predict Sepsis Using Vital Signs in ICU Patients"
+
 Source: PhysioNet 2019 Challenge – Early Prediction of Sepsis from Clinical Data
+
 Authors: Reyna M. A., Josef Clifford G., et al.
 
 The dataset comprises hourly vital signs and lab measurements of ICU patients, with a binary label indicating the presence or absence of sepsis. The LSTM model is chosen for its effectiveness in learning patterns from sequential medical time-series data, making it highly suitable for early sepsis detection.
